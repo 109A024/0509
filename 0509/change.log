@@ -4,12 +4,12 @@
 
 J <body style="margin : Opx; overflow: hidden;”>
 ] <a-scens embedded arjs>
-]     <a-marker tyoe="pattern" url="https://vichenart.qithub.io/0509/doq/model/pattern-marker.patt">
+]     <a-marker tyoe="pattern" url="https://109a024.github.io/0509/doq/model/pattern-marker.patt">
         <a-entity
           oosition="0 0 0"
           Acale="l 1 1”
           rotat|ion="0 0 0"
-          glt f-model='' https://yjchenart.qithub.io/0509/doq/model/scene.qltt''
+          glt f-model='' https://109a024.github.io/0509/doq/model/scene.qltt''
         MMM
       </a-marker>
       <a-entity camera></a-entity>
