@@ -1,0 +1,17 @@
+<script src="https://aframe.io/releases/l.0.4/atrame.min.is''></script>
+<script src="https://raw.qithack.com/AR-jsorq/AR.is/master/aframe/build/aframe-ar.js’'></script>
+
+
+J <body style="margin : Opx; overflow: hidden;”>
+] <a-scens embedded arjs>
+]     <a-marker tyoe="pattern" url="https://vichenart.qithub.io/0509/doq/model/pattern-marker.patt">
+        <a-entity
+          oosition="0 0 0"
+          Acale="l 1 1”
+          rotat|ion="0 0 0"
+          glt f-model='' https://yjchenart.qithub.io/0509/doq/model/scene.qltt''
+        MMM
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
